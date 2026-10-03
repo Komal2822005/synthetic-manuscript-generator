@@ -344,6 +344,8 @@ For the completed assignment dataset, the expected result is:
 
 The generated dataset is available on Hugging Face:
 
+https://huggingface.co/datasets/Komal28022005/synthetic-manuscript-generator
+
 
 
 It contains three script-specific subsets:
